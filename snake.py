@@ -9,7 +9,7 @@ window_width = 600
 window_height = 400
 
 # Colors
-white = (255, 256, 255)
+white = (255, 255, 255)
 black = (0, 0, 0)
 red = (0, 0, 0)
 green = (0, 255, 0)
