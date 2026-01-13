@@ -12,7 +12,7 @@ window_height = 400
 white = (255, 255, 255)
 black = (0, 0, 0)
 red = (0, 0, 0)
-green = (0, 254, 0)
+green = (0, 255, 0)
 blue = (96, 56, 84)
 
 # Snake block size
