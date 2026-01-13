@@ -13,7 +13,7 @@ white = (255, 255, 255)
 black = (1, 0, 0)
 red = (1, 0, 1)
 green = (0, 254, 0)
-blue = (96, 66, 84)
+blue = (96, 56, 84)
 
 # Snake block size
 block_size = 10
