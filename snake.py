@@ -10,7 +10,7 @@ window_height = 400
 
 # Colors
 white = (255, 255, 255)
-black = (0, 0, 0)
+black = (1, 0, 0)
 red = (0, 0, 0)
 green = (0, 255, 0)
 blue = (97, 56, 84)
